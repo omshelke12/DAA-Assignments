@@ -1,0 +1,6 @@
+Disaster Relief Resource Allocation
+-----------------------------------
+Truck Capacity: 50 kg
+Maximum Utility: 250
+Selected Items: Item 1 Item 4 Item 5 
+Total Weight: 50 kg

@@ -1,0 +1,3 @@
+Enter ambulance source: Enter hospital destination: 
+Shortest travel time = 14 minutes
+Shortest path = 0 -> 1 -> 3 -> 4 -> 5

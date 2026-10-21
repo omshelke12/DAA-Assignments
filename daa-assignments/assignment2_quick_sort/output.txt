@@ -1,0 +1,60 @@
+Output 1: choice = 1
+MOVIE RECOMMENDATION SYSTEM
+----------------------------
+1. Sort by IMDb Rating
+2. Sort by Release Year
+3. Sort by Watch Time
+Enter your choice: 
+Sorted Movie Dataset:
+ID	Movie		Rating	Year	WatchTime
+1	Inception		8.8	2010	9500
+2	Interstellar		8.7	2014	12000
+9	Oppenheimer		8.6	2023	10000
+7	3Idiots		8.4	2009	14000
+5	KGF		8.4	2018	13500
+4	Dangal		8.3	2016	11000
+3	Avengers		8	2012	15000
+10	RRR		7.8	2022	14500
+8	Jawan		6.9	2023	13000
+6	Pathaan		5.9	2023	9000
+
+Output 2: choice = 2
+MOVIE RECOMMENDATION SYSTEM
+----------------------------
+1. Sort by IMDb Rating
+2. Sort by Release Year
+3. Sort by Watch Time
+Enter your choice: 
+Sorted Movie Dataset:
+ID	Movie		Rating	Year	WatchTime
+8	Jawan		6.9	2023	13000
+6	Pathaan		5.9	2023	9000
+9	Oppenheimer		8.6	2023	10000
+10	RRR		7.8	2022	14500
+5	KGF		8.4	2018	13500
+4	Dangal		8.3	2016	11000
+2	Interstellar		8.7	2014	12000
+3	Avengers		8	2012	15000
+1	Inception		8.8	2010	9500
+7	3Idiots		8.4	2009	14000
+
+Output 3: choice = 3
+MOVIE RECOMMENDATION SYSTEM
+----------------------------
+1. Sort by IMDb Rating
+2. Sort by Release Year
+3. Sort by Watch Time
+Enter your choice: 
+Sorted Movie Dataset:
+ID	Movie		Rating	Year	WatchTime
+3	Avengers		8	2012	15000
+10	RRR		7.8	2022	14500
+7	3Idiots		8.4	2009	14000
+5	KGF		8.4	2018	13500
+8	Jawan		6.9	2023	13000
+2	Interstellar		8.7	2014	12000
+4	Dangal		8.3	2016	11000
+9	Oppenheimer		8.6	2023	10000
+1	Inception		8.8	2010	9500
+6	Pathaan		5.9	2023	9000
+
