@@ -1,23 +1,20 @@
-Enter number of courses: Enter adjacency matrix:
+--- Examination Timetable ---
+Course    Time Slot   Color
+C1        Slot 1      Red
+C2        Slot 2      Green
+C3        Slot 3      Yellow
+C4        Slot 1      Red
 
-Exam Timetable:
-Course 1 -> Slot 1
-Course 2 -> Slot 2
-Course 3 -> Slot 3
-Course 4 -> Slot 1
+Total time slots required: 3
 
-Minimum Slots Used: 3
+--- Graph Coloring ---
+[ C1 ] --> Slot 1 | Color: Red
+[ C2 ] --> Slot 2 | Color: Green
+[ C3 ] --> Slot 3 | Color: Yellow
+[ C4 ] --> Slot 1 | Color: Red
 
-Enter number of rooms: Enter capacity of each room:
-
-Room Allocation:
-
-Slot 1:
-Course 1 -> Room 1 (Capacity: 30)
-Course 4 -> Room 2 (Capacity: 40)
-
-Slot 2:
-Course 2 -> Room 1 (Capacity: 30)
-
-Slot 3:
-Course 3 -> Room 1 (Capacity: 30)
+--- Conflict Graph Edges ---
+C1 -- C2
+C1 -- C3
+C2 -- C3
+C3 -- C4
