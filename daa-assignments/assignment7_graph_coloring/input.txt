@@ -1,7 +1,14 @@
-4
-0 1 1 0
-1 0 1 1
-1 1 0 1
-0 1 1 0
-2
-30 40
+Enter number of courses: 4
+Enter number of students: 3
+
+Enter courses for each student.
+Enter the number of courses followed by course IDs (1 to 4).
+
+Student 1 - number of courses: 2
+Enter course IDs: 1 2
+
+Student 2 - number of courses: 3
+Enter course IDs: 1 2 3
+
+Student 3 - number of courses: 2
+Enter course IDs: 3 4
