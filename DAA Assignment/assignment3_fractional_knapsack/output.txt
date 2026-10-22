@@ -1,0 +1,35 @@
+Enter number of items: 4
+
+Enter details of item 1
+Name: Medicine
+Weight: 10
+Utility: 100
+Divisible (1-Yes, 0-No): 0
+
+Enter details of item 2
+Name: Food
+Weight: 20
+Utility: 80
+Divisible (1-Yes, 0-No): 1
+
+Enter details of item 3
+Name: Water
+Weight: 30
+Utility: 90
+Divisible (1-Yes, 0-No): 1
+
+Enter details of item 4
+Name: Blanket
+Weight: 15
+Utility: 45
+Divisible (1-Yes, 0-No): 0
+
+Enter boat capacity: 50
+
+--- Selected Supplies ---
+Medicine : Full item selected
+Food : Full item selected
+Water : 66.6667% selected
+
+Total weight used = 50 kg
+Total utility = 240

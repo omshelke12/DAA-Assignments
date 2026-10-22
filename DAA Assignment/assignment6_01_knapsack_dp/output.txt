@@ -1,0 +1,19 @@
+Enter number of items: 5
+Enter weight of item 1: 10
+Enter value of item 1: 100
+Enter weight of item 2: 20
+Enter value of item 2: 80
+Enter weight of item 3: 30
+Enter value of item 3: 120
+Enter weight of item 4: 15
+Enter value of item 4: 60
+Enter weight of item 5: 25
+Enter value of item 5: 90
+Enter truck capacity (kg): 50
+
+Disaster Relief Resource Allocation
+-----------------------------------
+Truck Capacity: 50 kg
+Maximum Utility: 250
+Selected Items: Item 1 Item 4 Item 5 
+Total Weight: 50 kg

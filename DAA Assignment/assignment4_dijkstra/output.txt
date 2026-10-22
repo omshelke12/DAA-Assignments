@@ -1,0 +1,6 @@
+Roads read from traffic.csv: 1200, Junctions: 100
+Enter ambulance source: 0
+Enter hospital destination: 99
+
+Shortest travel time = 12 minutes
+Shortest path = 0 -> 98 -> 99

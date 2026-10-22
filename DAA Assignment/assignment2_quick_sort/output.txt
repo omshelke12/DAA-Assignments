@@ -1,0 +1,128 @@
+Output 1: choice = 1
+MOVIE RECOMMENDATION SYSTEM
+---------------------------
+Movies loaded from movies.csv: 1200
+
+1. Sort by IMDb Rating
+2. Sort by Release Year
+3. Sort by Watch Time
+Enter your choice: 1
+
+Top 20 movies sorted by IMDb Rating (high to low):
+======================================================================
+Rank  ID    Movie                         Rating    Year     WatchTime
+----------------------------------------------------------------------
+1     1173  Burning Shadow 37                9.5    2022          8056
+2     644   Fallen Storm 81                  9.5    2014         19022
+3     464   Broken Journey 96                9.5    2010          9974
+4     1117  Final Echo 79                    9.5    2006          6745
+5     898   Last Reckoning 36                9.5    2005         18369
+6     440   Hidden Mission 48                9.5    2004         13348
+7     314   Last Storm 50                    9.5    2003          9678
+8     301   Rising Echo 29                   9.5    1989          7264
+9     581   Secret Shadow 83                 9.5    1989          7120
+10    70    Distant Voyage 79                9.4    2021         14666
+11    24    Frozen Code 35                   9.4    2020         17274
+12    256   Eternal Mission 72               9.4    2019         16052
+13    1189  Iron Horizon 85                  9.4    2019          6447
+14    180   Rising Journey 4                 9.4    2018         19095
+15    1180  Iron Dream 5                     9.4    2016         13917
+16    332   Crimson Signal 51                9.4    2014         13756
+17    87    Fallen Code 87                   9.4    2014         11425
+18    120   Golden Garden 17                 9.4    2014          6441
+19    738   Broken River 53                  9.4    2009          8346
+20    1167  Iron Empire 79                   9.4    2005         19887
+======================================================================
+Total movies sorted : 1200
+Sorted correctly    : Yes
+Sorting time        : 0.274 ms
+
+Output 2: choice = 2
+MOVIE RECOMMENDATION SYSTEM
+---------------------------
+Movies loaded from movies.csv: 1200
+
+1. Sort by IMDb Rating
+2. Sort by Release Year
+3. Sort by Watch Time
+Enter your choice: 2
+
+Top 20 movies sorted by Release Year (high to low):
+======================================================================
+Rank  ID    Movie                         Rating    Year     WatchTime
+----------------------------------------------------------------------
+1     805   Rising Harvest 74                9.2    2025         12839
+2     310   Rising Dream 71                  9.1    2025         19859
+3     491   Broken Harvest 19                8.1    2025         19449
+4     718   Wild Reckoning 40                7.9    2025         16530
+5     1112  Lost Frontier 93                 7.8    2025         10705
+6     113   Hidden Storm 50                  7.8    2025          9505
+7     1159  Eternal Kingdom 85               7.7    2025         15407
+8     1092  Wild River 89                    7.6    2025         19049
+9     426   Golden Code 88                   6.8    2025         18613
+10    549   Rising Mission 88                6.7    2025         19760
+11    76    Wild Kingdom 95                  6.4    2025         13007
+12    410   Eternal Horizon 13               6.3    2025         13739
+13    270   Burning Kingdom 17               6.1    2025          9770
+14    536   Frozen Harvest 55                6.1    2025          9519
+15    560   Silver Mirror 22                 5.8    2025         10794
+16    183   Hidden Frontier 92               5.6    2025         10479
+17    979   Golden Journey 37                5.5    2025         13183
+18    802   Distant Echo 26                  5.2    2025         10760
+19    657   Midnight Horizon 3               4.8    2025          8320
+20    984   Wild Code 2                      4.7    2025         10078
+======================================================================
+Total movies sorted : 1200
+Sorted correctly    : Yes
+Sorting time        : 0.207 ms
+
+Output 3: choice = 3
+MOVIE RECOMMENDATION SYSTEM
+---------------------------
+Movies loaded from movies.csv: 1200
+
+1. Sort by IMDb Rating
+2. Sort by Release Year
+3. Sort by Watch Time
+Enter your choice: 3
+
+Top 20 movies sorted by Watch Time (high to low):
+======================================================================
+Rank  ID    Movie                         Rating    Year     WatchTime
+----------------------------------------------------------------------
+1     246   Silver Mission 13                8.4    1987         19972
+2     60    Midnight Horizon 7               7.2    2012         19970
+3     628   Last Echo 58                     5.7    1996         19967
+4     765   Frozen Horizon 13                8.5    1982         19963
+5     848   Wild Echo 15                     5.0    2016         19963
+6     1190  Crimson Frontier 11              4.7    1984         19950
+7     61    Fallen Kingdom 8                 9.3    1985         19948
+8     352   Last Legacy 71                   7.0    1999         19948
+9     417   Frozen Mirror 68                 6.7    1988         19943
+10    131   Iron Storm 14                    7.8    1999         19931
+11    619   Dark River 1                     8.2    2004         19910
+12    397   Broken Mission 65                8.3    2010         19899
+13    230   Silent Code 36                   5.0    1987         19894
+14    929   Silver Empire 98                 8.7    1982         19893
+15    1167  Iron Empire 79                   9.4    2005         19887
+16    310   Rising Dream 71                  9.1    2025         19859
+17    721   Iron Journey 1                   6.8    2022         19816
+18    730   Rising Dream 65                  5.7    1990         19773
+19    1172  Broken Mirror 50                 8.6    2003         19761
+20    549   Rising Mission 88                6.7    2025         19760
+======================================================================
+Total movies sorted : 1200
+Sorted correctly    : Yes
+Sorting time        : 0.630 ms
+
+Output 4: choice = 7
+MOVIE RECOMMENDATION SYSTEM
+---------------------------
+Movies loaded from movies.csv: 1200
+
+1. Sort by IMDb Rating
+2. Sort by Release Year
+3. Sort by Watch Time
+Enter your choice: 7
+Invalid choice! Please enter 1, 2 or 3.
+

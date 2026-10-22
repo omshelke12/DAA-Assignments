@@ -1,0 +1,45 @@
+Enter number of courses: 6
+Enter adjacency matrix:
+0 1 1 0 0 0
+1 0 1 1 0 0
+1 1 0 1 1 0
+0 1 1 0 1 1
+0 0 1 1 0 1
+0 0 0 1 1 0
+
+Coloured Graph (each course = vertex, conflict = edge):
+Course 1 [Red]  conflicts with: C2(Green) C3(Blue) 
+Course 2 [Green]  conflicts with: C1(Red) C3(Blue) C4(Red) 
+Course 3 [Blue]  conflicts with: C1(Red) C2(Green) C4(Red) C5(Green) 
+Course 4 [Red]  conflicts with: C2(Green) C3(Blue) C5(Green) C6(Blue) 
+Course 5 [Green]  conflicts with: C3(Blue) C4(Red) C6(Blue) 
+Course 6 [Blue]  conflicts with: C4(Red) C5(Green) 
+Colouring valid (no two adjacent courses share a colour): Yes
+
+Exam Timetable (colour = slot):
+Course 1 -> Slot 1 (Red)
+Course 2 -> Slot 2 (Green)
+Course 3 -> Slot 3 (Blue)
+Course 4 -> Slot 1 (Red)
+Course 5 -> Slot 2 (Green)
+Course 6 -> Slot 3 (Blue)
+
+Minimum Slots Used: 3
+
+Enter number of rooms: 2
+Enter capacity of each room:
+30 40
+
+Room Allocation:
+
+Slot 1 (Red):
+Course 1 -> Room 1 (Capacity: 30)
+Course 4 -> Room 2 (Capacity: 40)
+
+Slot 2 (Green):
+Course 2 -> Room 1 (Capacity: 30)
+Course 5 -> Room 2 (Capacity: 40)
+
+Slot 3 (Blue):
+Course 3 -> Room 1 (Capacity: 30)
+Course 6 -> Room 2 (Capacity: 40)

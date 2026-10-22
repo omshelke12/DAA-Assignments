@@ -1,0 +1,8 @@
+Enter number of cities: 4
+Enter cost matrix (4 x 4):
+0 10 15 20
+10 0 35 25
+15 35 0 30
+20 25 30 0
+Optimal Route: A B D C A 
+Minimum Cost: 80
