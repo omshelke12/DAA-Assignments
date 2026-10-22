@@ -1,9 +1,0 @@
-Enter number of orders: Enter Order ID and Timestamp:
-
-Orders sorted according to timestamp:
-Order ID	Timestamp
-104		110
-102		120
-101		145
-105		150
-103		180

@@ -1,2 +1,0 @@
-Optimal Route: A B D C A 
-Minimum Cost: 80
